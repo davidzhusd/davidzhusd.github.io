@@ -43,6 +43,7 @@ a {
 .profilepic {
     height: auto;
     width: 300px;
+    align-self: center;
 }
 
 .icon {
